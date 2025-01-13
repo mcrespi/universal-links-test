@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "558FY5P6B5.com.telecom.personal.smarthome",
+                "appID": "558FY5P6B5.com.martincrespi.TestUniversalLinks",
                 "paths": ["*"]
             }
         ]
