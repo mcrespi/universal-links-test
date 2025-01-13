@@ -1,1 +1,18 @@
-test
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "3Y59KM6TM8.com.telecom.personal.smarthome",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "558FY5P6B5.com.telecom.personal.smarthome"
+        ]
+    }
+}
