@@ -3,14 +3,14 @@
         "apps": [],
         "details": [
             {
-                "appID": "558FY5P6B5.com.martincrespi.TestUniversalLinks",
+                "appID": "558FY5P6B5.com.telecom.personal.smarthome",
                 "paths": ["*"]
             }
         ]
     },
     "webcredentials": {
         "apps": [
-          "558FY5P6B5.com.martincrespi.TestUniversalLinks"
+          "558FY5P6B5.com.telecom.personal.smarthome"
         ]
     }
 }
