@@ -7,5 +7,10 @@
                 "paths": ["*"]
             }
         ]
+    },
+    "webcredentials": {
+        "apps": [
+          "558FY5P6B5.ar.com.cablevision.attv.iphone.myMinerva"
+        ]
     }
 }
