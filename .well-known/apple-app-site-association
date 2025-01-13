@@ -3,16 +3,11 @@
         "apps": [],
         "details": [
             {
-                "appID": "29DQKP84N5.com.telecom.personal.smarthome",
+                "appID": "558FY5P6B5.com.telecom.personal.smarthome",
                 "paths": [
                     "*"
                 ]
             }
-        ]
-    },
-    "webcredentials": {
-        "apps": [
-            "29DQKP84N5.com.telecom.personal.smarthome"
         ]
     }
 }
