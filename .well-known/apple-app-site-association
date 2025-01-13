@@ -4,9 +4,7 @@
         "details": [
             {
                 "appID": "558FY5P6B5.com.telecom.personal.smarthome",
-                "paths": [
-                    "*"
-                ]
+                "paths": ["*"]
             }
         ]
     }
